@@ -1,0 +1,104 @@
+PS C:\Users\Admin\Desktop\Python Besant Tech> & 
+C:/Users/Admin/AppData/Local/Programs/Python/Python310/python.exe 
+"c:/Users/Admin/Desktop/Python Besant Tech/College_administration_data_management.py" 
+**** College Database Management System ****
+Today Date : 2022-08-07
+Current Time : 21:59 
+Enter 1 to view student details 
+Enter 2 to view staff details 
+Enter 3 to view principal details
+Enter 4 to view course details 
+Enter your choice :1
+Enter the student id : 533
+Enter the password: mp@2002
+***********
+Regno : 533 
+Name : Mohan
+department : CS 
+year : 3
+address : Tpt
+
+**********
+Do you want to change your password? YES|NO : yes 
+Enter your new password : 2304
+Your password updated successfully
+Enter 1 to view student details
+Enter 2 to view staff details
+Enter 3 to view principal details
+Enter 4 to view course details
+Enter your choice :2
+Enter the staff id: 201
+Enter the password: pk123
+**********
+Staff id : 201
+Name : karthik
+department : CS
+address : TPT
+***********
+Enter 1 to add new student : 1
+Enter the student id : 539
+Enter the password : diwa123
+Enter student name : Diwakar
+
+Enter the department : CS
+Enter the year : 3
+Enter the address : Tpt
+Please enter a valid number
+Enter 1 to view student details
+Enter 2 to view staff details
+Enter 3 to view principal details
+Enter 4 to view course details
+Enter your choice :3
+Enter the principal id : 1
+Enter the password: p123
+*********
+Principal ID : 1
+Name : Antony
+department : English
+address : TPT
+***********
+Enter 1 to add new staff : 1
+Enter the staff id : 205
+Enter the password : sr123 
+Enter staff name : Serlin
+Enter the department : CS
+
+Enter the address : Vlr
+Serlin details are added.
+Enter 1 to add new course : 1
+Enter the course id : 103
+Enter course name : History
+Enter the duration : 3
+Placement availability : No
+Enter the HOD name : Suresh
+History details are added.
+Enter 1 to view student details
+Enter 2 to view staff details
+Enter 3 to view principal details
+Enter 4 to view course details
+Enter your choice :4
+Course details
+Enter the course id : 101
+**************
+Course ID : 101
+Course Name : CS
+Duration : 3
+Placements availability : Yes
+HOD : Mala
+
+***************
+History details are added.
+Enter 1 to view student details
+Enter 2 to view staff details
+Enter 3 to view principal details
+Enter 4 to view course details
+Enter your choice :4
+Course details
+Enter the course id : 101
+**************
+Course ID : 101
+Course Name : CS
+Duration : 3
+Placements availability : Yes
+HOD : Mala
+***************
