@@ -8,7 +8,7 @@
 
 ## Project 2: Covid19 Data Management System
 
--The Corona Data Management System project is a console-based application designed to provide up-to-date information on coronavirus cases. It offers functionalities for users to register for vaccines and check their vaccination status.
+- The Corona Data Management System project is a console-based application designed to provide up-to-date information on coronavirus cases. It offers functionalities for users to register for vaccines and check their vaccination status.
 
 
 
